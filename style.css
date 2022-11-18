@@ -199,7 +199,7 @@ body {
 }
 
 .content3_left_text {
-    color: white;
+    color: rgb(0, 0, 0);
     font-weight: 700;
     font-size: 31px;
     font-family: Segoe UI, SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -207,8 +207,8 @@ body {
 }
 
 .content3_left_text h2 {
-    font-size: 20px;
-    font-weight: 900;
+    font-size: 25px;
+    font-weight: 600;
     width: 80%;
     padding-left: 106px;
 }
@@ -254,6 +254,7 @@ body {
 
 .text h2 {
     font-weight: 500;
+    
 }
 
 #content3_button {
@@ -319,7 +320,7 @@ body {
 }
 
 .c4_text {
-    color: white;
+    color: rgb(0, 0, 0);
     width: 50%;
     margin-left: 86px;
     margin-top: 108px;
@@ -334,6 +335,7 @@ body {
 #c4_button1 {
     background: #ffd800;
     border: 0px;
+    width: 90px;
 }
 
 .c4_text h2 {
@@ -343,7 +345,7 @@ body {
 .content4_left {
     width: 100%;
     height: 548px;
-    background: #107c10;
+    background: #ffffff;
     display: flex;
     justify-content: space-between;
     
@@ -358,13 +360,13 @@ body {
 .content5_both {
     width: 50%;
     height: 542px;
-    background: #107c10;
+    background: #ffffff;
     display: flex;
     justify-content: space-between;
 }
 
 .c5_text {
-    color: white;
+    color: rgb(0, 0, 0);
     width: 50%;
     margin-left: 86px;
     margin-top: 108px;
@@ -374,6 +376,7 @@ body {
 #c5_button {
     font-size: 20px;
     font-weight: 900;
+    color: #107c10;
 }
 
 .c5_text h2 {
@@ -436,13 +439,13 @@ body {
 .content8_left_top {
     width: 100%;
     height: 542px;
-    background: #ffffff;
+    background:#107c10;
     display: flex;
     justify-content: space-between;
 }
 
 .c8_text_l {
-    color: black;
+    color: rgb(255, 255, 255);
     width: 50%;
     margin-left: 86px;
     margin-top: 108px;
@@ -456,6 +459,7 @@ body {
 #c8_button {
     font-size: 20px;
     font-weight: 900;
+    
 }
 
 .content8_img_r {
@@ -495,6 +499,8 @@ body {
     font-weight: 900;
     width: 30%;
     padding-left: 106px;
+    color:#ffffff;
+    
 }
 
 .content8_left_bottom_img {
@@ -510,7 +516,7 @@ body {
 .content8_right_down {
     width: 100%;
     height: 542px;
-    background: #ffffff;
+    background:#107c10;
     display: flex;
     justify-content: space-between;
 }
